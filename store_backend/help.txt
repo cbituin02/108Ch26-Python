@@ -1,0 +1,11 @@
+# install packages
+python -m pip install <name>
+
+# create the venv
+python -m venv venv
+
+# activate the venv
+win:venv\Scripts\activate
+mac:source venv/bin/activate
+
+source venv/bin/activate
